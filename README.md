@@ -1,6 +1,6 @@
 # LoRaWAN-IoMT
 
-This repository contains the archives created for the cursus project of the subject of Communication Technologies in Biomedicine of the master in Telecommunications Engineering. <br /> <br />
+This repository contains the archives created for the cursus project of the subject of Communication Technologies in Biomedicine of the master in Telecommunications Engineering. This project tries to characterize communication through the LoRaWAN standard for IoT applications in biomedicine. For this, we have used STM32WL55 Nucleo-64 devices and their associated software. We have made different measurements regarding sensor temperature, SNR, etc. to characterize the communication, as well as to check the range available with said devices. You can read in detail the PDFs in which the objective and the tests carried out are detailed. Likewise, the MATLAB code is attached to create the representations of the data obtained in the device log. <br /> <br />
 
 <h2 align = center>
 	<a href="#about">Requirements</a>
